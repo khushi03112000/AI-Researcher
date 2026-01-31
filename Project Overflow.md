@@ -35,7 +35,7 @@ The primary objective of this project is to simulate how real-world research ass
 
 ## 3. High-Level System Architecture
 
-The project follows a **node–edge architecture** using LangGraph, where each node represents a specific responsibility in the research pipeline and edges define execution flow and decision-making logic fileciteturn0file0.
+The project follows a **node–edge architecture** using LangGraph, where each node represents a specific responsibility in the research pipeline and edges define execution flow and decision-making logic.
 
 **Main Components:**
 
