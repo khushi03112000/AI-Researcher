@@ -1,7 +1,7 @@
 # AI-Researcher
 
-### LANGGRAPH - NODES , EDGES , STATE CONCEPT
-<img width="1470" height="956" alt="Screenshot 2026-01-24 at 5 52 56 PM" src="https://github.com/user-attachments/assets/79b3a185-f8bd-4f6f-b6b9-97c11ff625d2" />
+<!-- ### LANGGRAPH - NODES , EDGES , STATE CONCEPT
+<img width="1470" height="956" alt="Screenshot 2026-01-24 at 5 52 56 PM" src="https://github.com/user-attachments/assets/79b3a185-f8bd-4f6f-b6b9-97c11ff625d2" /> -->
 
 ## Output Snapshots : 
 
